@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
 
 permalink: /posts/:title/
+google_analytics: UA-150954641-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
