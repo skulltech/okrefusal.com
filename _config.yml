@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 permalink: /posts/:title/
-google_analytics: UA-150954641-1
+google_analytics: UA-107859389-2
 disqus:
     shortname: okrefusal
 
