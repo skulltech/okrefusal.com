@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Ok Refusal
-email: okrefusal@gmail.com
+email: sumit@sumit-ghosh.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Great Refusal, only that it's not so great. Looking for a praxis in this age of disillusionment and discontent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://okrefusal.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: R3FS1
+twitter_username: SkullTech101
 
 # Build settings
 theme: minima

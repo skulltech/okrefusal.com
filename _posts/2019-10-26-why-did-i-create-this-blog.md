@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why Did I Create This Blog"
-date:   2019-10-26 18:34:47 +0530
+title: "Why Did I Create This Blog"
+date: 2019-10-26 18:34:47 +0530
 
 ---
 
@@ -17,3 +17,5 @@ But I already have a blog, so why did I create another one?
 - I try to maintain a high standard of the posts I make there in my *official* blog, so I refrain from writing short posts on half-baked ideas there. But writing long-form blog posts on mature thoughts is very hard: first of all, forming mature thoughts is difficult in itself, moreover writing them down properly is a tough task too for a newbie writer like me. That’s why I’m planning to use this blog as an endpoint for getting my immature ideas out. 
 
 So, let’s see how this goes!
+
+__Update__ — I’ve since decided to make this blog _unanonymous_, see [this post](/posts/im-going-to-use-my-real-name-everywhere/) for details.
