@@ -4,13 +4,34 @@ title: 'Inspecting the Self-Referentiality and Social Dynamics of Internet Forum
 
 ---
 
-### Introduction
+<style type="text/css"> 
+	.footnote:before {
+		content: "[";
+	}
+	.footnote:after {
+		content: "]";
+	}
+	.reversefootnote {
+		visibility: hidden;
+		position: relative;
+	}
+	.reversefootnote:after {
+		visibility: visible;
+		position: absolute;
+		top: 0;
+		left: 0;
+		content: "^";
+		font-weight: bold;
+	}
+</style>
+
+## Introduction
 
 When it comes to language games, Internet forums are a unique and novel kind. Internet forums—also referred to as only “forums” elsewhere in this text—are websites where people can hold conversations in the form of posted messages. In our discussion, we’ll be considering all Internet forums, but focusing on Reddit, a specific and representative example of them. 
 
 The initial goal of Reddit is communicated in its tagline—“the front page of the Internet”. Pages of all kinds from around the Internet would get posted on Reddit, and through the voting mechanism only the *best* ones would surface on the ‘hot’ page; in this way the website would act as a “front page” of the Internet, aggregating the *best* of what Internet has to offer. Furthermore, that is the model for many other popular forums on the Internet, such as Hackernews and Digg. But as research has shown, this model doesn’t hold up for Reddit; as the community grows, Reddit becomes more self-referential and less of a link aggregator[^1]. In the first section, we explore this aspect of forums through the lens of Wittgenstein’s language-game paradigm. In later sections, we explore how this language-game can be also be understood as part of the Lacanian symbolic order, how interpassivity plays a role in the dynamics of social navigation, and how all these ultimately conforms the nature of the posts of a forum to a particular standard, albeit the standard is different for every forum.
 
-### A peculiar three-person language-game, analyzed differentially 
+## A peculiar three-person language-game, analyzed differentially 
 
 Language games are the emergent rules or maxims of communication, often subconsciously followed, which occur in ordinary conversation[^2]. We can not find language-games in the syntax or semantics of a linguistic construct—we cannot find them in the rules of a language; instead, they’re hidden in the meta-rules. Whereas rules dictate what’s linguistically valid, meta-rules tell us how to deal with the rules, how to use them, or where to break them. An example relevant to the Internet could be the memes that play upon language and generate alternate variations thereof—such as lolspeak[^3]—which are humorous in the right context.
 
@@ -22,7 +43,7 @@ The language-game being played out in Internet forums might seem similar at firs
 
 The existence of a third-party observer to a conversation by itself is not unusual or particular to Internet forums only. Public debate, for example, is a form of discourse having a comparable format, which existed before the Internet. A difference we can notice is that the audience of a public debate is usually passive listeners, whereas in online forums, everyone is free to actively participate as they like. However, more importantly, the audience of a debate usually meets for a brief time, so there is not much opportunity for language-games to be established, and this is the key difference between them in the context of language-games. 
 
-### Social navigation, the big Other and interpassivity
+## Social navigation, the big Other and interpassivity
 
 Reddit used to describe itself as[^4],
 
@@ -32,7 +53,7 @@ The fundamental principle upon which Reddit works is social navigation, but it�
 
 This “crack” in the system of social navigation can be understood as a phenomenon of *interpassivity*. The theory of interpassivity[^8]—as developed by cultural theorists Robert Pfaller and Slavoj Žižek—shows us how supposedly interactive forms of enjoyment are rather passive. An example of interpassivity is how canned laughter in TV sitcoms lets us enjoy the show without being amused ourselves; somehow, the task of enjoyment is delegated to the show itself. It can be argued that interpassivity is not only limited to consumption and enjoyment; it also extends to other social phenomena, where participation is recommended but not mandatory. One such phenomenon is social navigation in Internet forums: as long as the individuals know that the posts on the *hot* page are vetted by the big Other, they don’t bother doing it themselves. The fact that the big Other is nothing material—it consists of and is driven by the individuals only—gets lost in the dynamics of social navigation. We can also observe that the enjoyment of the posts—such as memes—in a forum is inherently dependent on interpassivity. One does not necessarily have to enjoy the meme or find it funny, the fact that it has been vetted and approved as funny by the community they’re part of makes it funny by itself. In this way, the *quality* of a post depends more on the big Other than its intrinsic nature.
 
-### Social conformity, self-referentiality and lack of dissent
+## Social conformity, self-referentiality and lack of dissent
 
 Another factor behind the self-referential nature of forums is the tendency of the members to conform to the social norms. These norms might not be in the form of direct rules; they might be meta-rules that are not stated directly but internally “known” by most members. People posting on forums are aware that their message will be there for everyone, so more often than not there is kind of a peer-pressure so that he conforms to the language game and thus be accepted as a part of the community. 
 
@@ -40,7 +61,7 @@ The existence of *karma* makes the previous point more prominent. Karma is the t
 
 The association of respect and status with the sum of *karma* of a particular account encourages this social conformity. Thus, dissent is less likely to emerge in such a community. Contrasting it with forums like 4chan, where there is no concept of *karma* and every account is anonymous, we can see how there the social conformity game applies to a lesser degree, and subsequently, chances of emergence of dissent and novelty is greater.
 
-### Conclusion
+## Conclusion
 
 To summarize, the third participant of the language-game—the big Other—takes a much more active part in forums. Human beings are social creatures, social acceptance and popularity being the fundamental currency of the social economy, especially so in an urban society like the Internet. Becoming more and more self-referential is a norm that emerged freely out of the chaos of minimal rules.
 
@@ -50,14 +71,14 @@ Interestingly, Reddit has changed its description. The new description reads[^9]
 
 Seemingly Reddit has understood how its fundamental nature has changed, how its not a “source for what’s new and popular on the web” anymore, rather a site for “… communities, endless conversation, and authentic human connection”. 
 
-### References
+## References
 
-[^1]: Identifying social roles in reddit using network structure. https://doi.org/10.1145/2567948.2579231 
+[^1]: Cody Buntain and Jennifer Golbeck. 2014. Identifying social roles in reddit using network structure. In _Proceedings of the 23rd International Conference on World Wide Web_ (_WWW '14 Companion_). Association for Computing Machinery, New York, NY, USA, 615–620. DOI: [https://doi.org/10.1145/2567948.2579231](https://doi.org/10.1145/2567948.2579231) 
 [^2]: Wittgenstein, L. Philosophical Investigations, 1953.
-[^3]: Lolspeak. https://knowyourmeme.com/memes/lolspeak-chanspeak 
-[^4]: https://www.reddit.com/r/reddit.com/wiki/index 
-[^5]: Dourish, P. and Chalmers, M. (1004). Running out of space: models of information navigation. Proceedings of HCI'94, Glasgow, August 1994.  https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Dourish-HCI94.pdf 
-[^6]: Lacan’s symbolic order, the big Other. https://plato.stanford.edu/entries/lacan/ 
-[^7]: Widespread Underprovision on Reddit. https://doi.org/10.1145/2441776.2441866
-[^8]: Pfaller, R. Interpassivity: The Aesthetics of Delegated Enjoyment,  2017.
-[^9]: https://www.redditinc.com/
+[^3]: Lolspeak. [https://knowyourmeme.com/memes/lolspeak-chanspeak](https://knowyourmeme.com/memes/lolspeak-chanspeak) 
+[^4]: [https://www.reddit.com/r/reddit.com/wiki/index](https://web.archive.org/web/20181002082143/https://www.reddit.com/r/reddit.com/wiki/index) 
+[^5]: Dourish, P. and Chalmers, M. (1004). Running out of space: models of information navigation. Proceedings of HCI'94, Glasgow, August 1994. [https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Dourish-HCI94.pdf](https://www.lri.fr/~mbl/ENS/CSCW/2013/papers/Dourish-HCI94.pdf) 
+[^6]: Johnston, Adrian, "Jacques Lacan", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.), URL: [https://plato.stanford.edu/archives/fall2018/entries/lacan/](https://plato.stanford.edu/archives/fall2018/entries/lacan/). 
+[^7]: Eric Gilbert. 2013. Widespread underprovision on Reddit. In _Proceedings of the 2013 conference on Computer supported cooperative work_ (_CSCW '13_). Association for Computing Machinery, New York, NY, USA, 803–808. DOI: [https://doi.org/10.1145/2441776.2441866](https://doi.org/10.1145/2441776.2441866)
+[^8]: Pfaller, R. Interpassivity: The Aesthetics of Delegated Enjoyment, 2017.
+[^9]: [https://www.redditinc.com/](https://web.archive.org/web/20200818085528/https://www.redditinc.com/)
