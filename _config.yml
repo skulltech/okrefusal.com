@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Great Refusal, only that it's not so great. Looking for a praxis in this age of disillusionment and discontent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://okrefusal.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SkullTech101
+twitter_username: summitkg
 
 # Build settings
 theme: minima
