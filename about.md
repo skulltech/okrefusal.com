@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-
 ---
 
 Sharing my thoughts on the human condition.

@@ -4,20 +4,20 @@ description: >-
   The Great Refusal, only that it's not so great. Looking for a praxis in this age of disillusionment and discontent.
 baseurl: ""
 url: "https://okrefusal.com"
-twitter_username: summitkg
 
-theme: minima
+minima:
+  social_links:
+    twitter: summitkg
+    flickr: sumit.ghosh
+    goodreads: summitkg
+
+remote_theme: SkullTech/minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 permalink: /posts/:title/
 google_analytics: UA-107859389-2
 disqus:
     shortname: okrefusal
-
-headers:
-    X-Robots-Tag: noindex
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
