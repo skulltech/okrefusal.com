@@ -1,9 +1,7 @@
 ---
 date: 'Fri Dec 28 2018 22:50:00 GMT+0530 (India Standard Time)'
 title: Best Beginner Budget Guitar Amps in 2019, According to the Internet 
-
 ---
-
 
 In this same spirit of [this post](/articles/best-beginner-electric-guitars) about the best electric guitars, I decided to make another list about... drum roll...  best beginner guitar amps! Because what's a good electric guitar without a decent amp to bring teh tone?
 

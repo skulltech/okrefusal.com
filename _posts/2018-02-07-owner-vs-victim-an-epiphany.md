@@ -1,9 +1,7 @@
 ---
 date: 'Wed Feb 07 2018 01:25:00 GMT+0530 (India Standard Time)'
 title: Owner vs Victim — An Epiphany (Sort of)
-
 ---
-
 
 The central concept Steve Chandler focuses on in his book [Reinventing Yourself](https://www.goodreads.com/book/show/93360) is that of being a _Owner_ vs being a _Victim_. To explain it while maintaining brevity, 
 

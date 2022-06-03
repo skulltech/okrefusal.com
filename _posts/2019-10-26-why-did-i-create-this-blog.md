@@ -2,7 +2,6 @@
 layout: post
 title: "Why Did I Create This Blog"
 date: 2019-10-26 18:34:47 +0530
-
 ---
 
 I like to indulge in philosophy—broaden my understanding of the human condition and the various socio-political issues we’re laden with. Recently I’ve come to understand that becoming a more knowledgeable individual by itself doesn’t amount to much, not unless I do something with it. As a thinking individual, writing down my thoughts and sharing them with the netizens is the least I could do. As Noam Chomsky said, 

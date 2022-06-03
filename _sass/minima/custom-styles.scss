@@ -1,0 +1,18 @@
+.footnote:before {
+	content: "[";
+}
+.footnote:after {
+	content: "]";
+}
+.reversefootnote {
+	visibility: hidden;
+	position: relative;
+}
+.reversefootnote:after {
+	visibility: visible;
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: "^";
+	font-weight: bold;
+}

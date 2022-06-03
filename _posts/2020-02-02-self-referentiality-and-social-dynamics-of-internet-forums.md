@@ -1,29 +1,7 @@
 ---
 date: 'Sun Feb 02 2020 19:00:00 GMT+0530 (India Standard Time)'
 title: 'Inspecting the Self-Referentiality and Social Dynamics of Internet Forums'
-
 ---
-
-<style type="text/css"> 
-	.footnote:before {
-		content: "[";
-	}
-	.footnote:after {
-		content: "]";
-	}
-	.reversefootnote {
-		visibility: hidden;
-		position: relative;
-	}
-	.reversefootnote:after {
-		visibility: visible;
-		position: absolute;
-		top: 0;
-		left: 0;
-		content: "^";
-		font-weight: bold;
-	}
-</style>
 
 ## Introduction
 

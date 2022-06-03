@@ -1,10 +1,7 @@
 ---
 date: 'Thu Apr 18 2019 14:00:00 GMT+0530 (India Standard Time)'
 title: 'Foucault: Saying Things as to No Longer Think Them'
-
 ---
-
-
 
 In [this](https://www.youtube.com/watch?v=qzoOhhh4aJg) 1971 interview, Foucault says and he stresses upon it, 
 

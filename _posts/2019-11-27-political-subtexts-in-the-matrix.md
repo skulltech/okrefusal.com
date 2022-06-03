@@ -2,7 +2,6 @@
 layout: post
 title: "Political Subtexts in The Matrix"
 date: 2019-11-27 09:20:00 +0530
-
 ---
 
 I was very young, probably pre-teen, when I first watched The Matrix. I enjoyed it a lot, but obviously a lot of the finer subtexts went over my head. Recently when I watched it again, I was surprised to see how radically political—but not overtly so—this movie was. Here are some of my thoughts on the subtextual themes of the movie.

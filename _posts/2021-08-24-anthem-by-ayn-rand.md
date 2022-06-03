@@ -2,7 +2,6 @@
 layout: post
 title: "Anthem by Ayn Rand"
 date: 2021-08-24 18:00:00 +0530
-
 ---
 
 Ayn rand is intriguing to me just because how polarising she is. Finding out that George Hotz is a big fan of Rand was a bit disappointing, but it made me reconsider reading her works just to see what the fuss is about. And I just did that today, read a very short novel of hers named _Anthem_.

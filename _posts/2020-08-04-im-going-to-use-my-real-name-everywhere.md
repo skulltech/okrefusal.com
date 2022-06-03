@@ -2,7 +2,6 @@
 layout: post
 title: "I’m Going to Use My Real Name Everywhere"
 date: 2020-08-04 00:10:00 +0530
-
 ---
 
 In [this](https://okrefusal.com/posts/why-did-i-create-this-blog/) post, I mentioned that I had decided to use a pseudonym online to put out my political and philosophical thoughts. The central reason for this was the fear of being _cancelled_ and potentially hurting my career and employment. Recently I’ve been rethinking this and decided to abandon the pseudonym and use my real name instead, let me tell you why.

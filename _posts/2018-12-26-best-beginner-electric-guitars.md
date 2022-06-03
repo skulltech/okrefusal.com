@@ -1,7 +1,6 @@
 ---
 date: 'Wed Dec 26 2018 17:00:00 GMT+0530 (India Standard Time)'
 title: Best Beginner Budget Electric Guitars in 2019, According to the Internet 
-
 ---
 
 __Update__ — I wrote a similar post about best beginner budget guitar amps, you can find it [here](/articles/best-beginner-guitar-amps).

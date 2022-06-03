@@ -2,7 +2,6 @@
 layout: post
 title: "Schopenhauer: a Positive Conception of Suffering"
 date: 2021-03-18 16:00:00 +0530
-
 ---
 
 Schopenhauer is infamous for his morbid pessimism, but upon reading him I did find him to be more than that. His core philosophy describes a realism, and although he certainly sometimes interprets it pessimistically, in other times he leaves it as be, without imposing any explicit value judgment on it. I recently decided that I’ll write very short posts about anything and everything, and increase the regularity and quantity of my writing rather than worrying about the novelty and quality of it. This post is about the Schopenhauerian _positive_ conception of suffering. As it will be evident, I’m writing mostly to clarify my own understanding, but if it does end up helping or traumatizing others that’s all the better! The primary source of this post is his essay “On the Suffering of the World”.

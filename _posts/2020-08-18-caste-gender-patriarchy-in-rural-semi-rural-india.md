@@ -2,7 +2,6 @@
 layout: post
 title: "Caste, Gender and Patriarchy in Rural and Semi-Rural India"
 date: 2020-08-18 20:00:00 +0530
-
 ---
 
 The institutions of caste, gender, and patriarchy in India are not as unambiguous as it might seem from the perspective of an outsider; complex coordination between them permeates the lives of almost everyone from the rural and semi-rural parts of India, despite the penetration of modern consumerist culture. We’re going to explore how these institutions of power interact with each other, and in turn how they make up the social order of the aforementioned parts of India.
@@ -29,5 +28,5 @@ Despite the fact that much of the population is now exposed to urbanization and 
 
 ## References
 
-- Chowdhry, Prem. “Enforcing Cultural Codes: Gender and Violence in Northern India.” Economic and Political Weekly, vol. 32, no. 19, 1997, pp. 1019–1028., [www.jstor.org/stable/4405393](https://www.jstor.org/stable/4405393). Accessed 18 Aug. 2020.
+- [1] Chowdhry, Prem. “Enforcing Cultural Codes: Gender and Violence in Northern India.” Economic and Political Weekly, vol. 32, no. 19, 1997, pp. 1019–1028., [www.jstor.org/stable/4405393](https://www.jstor.org/stable/4405393). Accessed 18 Aug. 2020.
 - Dube, Leela. “On the Construction of Gender: Hindu Girls in Patrilineal India.” Economic and Political Weekly, vol. 23, no. 18, 1988, pp. WS11–WS19. JSTOR, [www.jstor.org/stable/4378429](https://www.jstor.org/stable/4378429). Accessed 18 Aug. 2020.

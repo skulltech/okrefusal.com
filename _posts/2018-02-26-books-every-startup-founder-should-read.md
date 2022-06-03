@@ -2,7 +2,6 @@
 layout: post
 date: 'Mon Feb 26 2018 12:10:00 GMT+0530 (India Standard Time)'
 title: Books Every Startup Founder Should Read
-
 ---
 
 I wanted to read some books about founding startups, but had no idea which books should they be. Naturally, Google came to help. Upon compiling books from the first page of Google search results of the query “books startup founders should read”, what I got is the list below. 
