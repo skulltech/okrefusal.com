@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2/30: Only God Forgives"
-date: 2022-06-04 23:30:00 +0530
+date: 2022-06-04 23:00:00 +0530
 ---
 
 Recently I rewatched Nicolas Winding Refn's _Only God Forgives_. It's a very divisive movie, the critics' review at Rotten Tomatoes is around 50% lmao. But I found it to be quite intriguing.
