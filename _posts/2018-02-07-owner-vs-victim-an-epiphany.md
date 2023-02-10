@@ -1,9 +1,9 @@
 ---
-date: 'Wed Feb 07 2018 01:25:00 GMT+0530 (India Standard Time)'
+date: "Wed Feb 07 2018 01:25:00 GMT+0530 (India Standard Time)"
 title: Owner vs Victim — An Epiphany (Sort of)
 ---
 
-The central concept Steve Chandler focuses on in his book [Reinventing Yourself](https://www.goodreads.com/book/show/93360) is that of being a _Owner_ vs being a _Victim_. To explain it while maintaining brevity, 
+The central concept Steve Chandler focuses on in his book [Reinventing Yourself](https://www.goodreads.com/book/show/93360) is that of being a _Owner_ vs being a _Victim_. To explain it while maintaining brevity,
 
 - A _Victim_ is someone who thinks of himself as a victim of the circumstances.
 - A _Owner_ is someone who doesn’t ever think of himself as a victim, but rather takes up the responsibility for his life.
@@ -15,4 +15,3 @@ From my childhood, I have always taken an interest in learning things on my own,
 The dynamic playing out here is that of victim and owner. The reason I’m finding it hard to appreciate and focus on the subject at hand is my attitude towards it. I’m thinking of myself as a victim, thinking that I am a victim of the circumstances—in this case, the upcoming exam and grades thereof. Instead of thinking that I am doing it because I _should_, if I think that I am doing it because I _want_, all the frustration goes away. In most of the cases, this is true too, we are rarely a victim of the circumstances, rather it’s our thought-process that makes us behave like one. You too must’ve experienced this, when you decide to do something and then do it for yourself, it doesn't feel like a chore, rather it feels like a personal project.
 
 I'm not going to make this post a long one. What I wanted to share with you, the readers, is the gravity and applicability of this _victim—owner_ concept in our everyday life. I highly recommend the [Reinventing Yourself](https://www.goodreads.com/book/show/93360) book I mentioned above, it will change your life for the better.
-

@@ -1,16 +1,15 @@
 ---
-date: 'Wed Dec 26 2018 17:00:00 GMT+0530 (India Standard Time)'
-title: Best Beginner Budget Electric Guitars in 2019, According to the Internet 
+date: "Wed Dec 26 2018 17:00:00 GMT+0530 (India Standard Time)"
+title: Best Beginner Budget Electric Guitars in 2019, According to the Internet
 ---
 
-__Update__ — I wrote a similar post about best beginner budget guitar amps, you can find it [here](/articles/best-beginner-guitar-amps).
+**Update** — I wrote a similar post about best beginner budget guitar amps, you can find it [here](/articles/best-beginner-guitar-amps).
 
 I've been dabbling in music for a few months now, mostly playing an acoustic guitar borrowed from a friend. But the primary reason for my attraction to guitar was lead solos, especially the ones by David Gilmour. So I decided to “upgrade” and buy an electric guitar. But then there was this inevitable dilemma of selection, which one should I buy? You should note that I was looking for beginner _budget_ guitars, not expensive ones.
 
 Naturally, Google came to help. Upon compiling books from the first two pages of Google search results of the query “beginner budget electric guitar”, what I got is the list below. FYI, I've made a similar post before, about books every startup founder should read, you can find that [here](/articles/books-every-startup-founder-should-read).
 
-- __Important__ — Number of ★s against a guitar indicates the number of times that guitar came up repeating, so the more the better.
-
+- **Important** — Number of ★s against a guitar indicates the number of times that guitar came up repeating, so the more the better.
 
 # Top picks: Guitars coming up more than once
 
@@ -27,7 +26,7 @@ Naturally, Google came to help. Upon compiling books from the first two pages of
 - ★★★ Dean Vendetta XM // XMT
 - ★★★ Schecter C1 SGR
 - ★★★ Squier Affinity Telecaster
-- ★★ Ibanez GRX70QA 
+- ★★ Ibanez GRX70QA
 - ★ Epiphone Les Paul SL
 - ★ Epiphone Dot
 - ★ Epiphone G-400
@@ -55,7 +54,7 @@ FYI — I ended up buying Yamaha Pacifica PAC012, in case you wanted to know.
 - Epiphone Les Paul Studio Deluxe
 - ★★★ Epiphone SG Special
 - ★★★ Ibanez GRX20Z
-- ★★ Ibanez GRX70QA 
+- ★★ Ibanez GRX70QA
 - Ibanez GRGM21
 - Ibanez GRG121DX
 - Ibanez GRGR120EX

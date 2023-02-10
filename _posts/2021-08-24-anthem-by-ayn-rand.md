@@ -21,9 +21,7 @@ Not gonna lie, I dig it. Although this isn’t anything too new, just the typica
 Some of the following stuff could be controversial, understandably.
 
 > I do not surrender my treasures, nor do I share them. The fortune of my spirit is not to be blown into coins of brass and flung to the winds as alms for the poor of the spirit. I guard my treasures: my thought, my will, my freedom. And the greatest of these is freedom.
->
 
 But it’s interesting how Rand has not mentioned any material possession when she lists out the treasures she won’t like to share. But she did say that “the fortune of my spirit is not to be blown into coins of brass and flung to the winds as alms for the poor of the spirit”. An obvious reading of this would be a cry against things like taxation. But a more interesting reading would be a statement against market capitalism, and how one should not sacrifice their thought, will and freedom to capitalistic ends, how one should not blow their spirit away into coins of brass. But I need to read more Rand to confirm this, I’m most probably just projecting here.
 
 Maybe I will read more Rand, or maybe not.
-

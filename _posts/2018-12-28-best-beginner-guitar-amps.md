@@ -1,19 +1,17 @@
 ---
-date: 'Fri Dec 28 2018 22:50:00 GMT+0530 (India Standard Time)'
-title: Best Beginner Budget Guitar Amps in 2019, According to the Internet 
+date: "Fri Dec 28 2018 22:50:00 GMT+0530 (India Standard Time)"
+title: Best Beginner Budget Guitar Amps in 2019, According to the Internet
 ---
 
-In this same spirit of [this post](/articles/best-beginner-electric-guitars) about the best electric guitars, I decided to make another list about... drum roll...  best beginner guitar amps! Because what's a good electric guitar without a decent amp to bring teh tone?
+In this same spirit of [this post](/articles/best-beginner-electric-guitars) about the best electric guitars, I decided to make another list about... drum roll... best beginner guitar amps! Because what's a good electric guitar without a decent amp to bring teh tone?
 
 Like always, Google generously supplied the opinions of the Interweb. This one was a little trickier than doing the same with guitars, because there were such a large number of amps to choose from, and there was little agreement between websites about what's the best amp! So, I had to embark deep into the third page of Google search, who does that?! So here it is, the list I got upon compiling books from the first three pages of Google search results of the query “beginner budget electric guitar amp”.
 
-- __Important__ — Number of ★s against an amp indicates the number of times that amp came up repeating, so the more the better.
+- **Important** — Number of ★s against an amp indicates the number of times that amp came up repeating, so the more the better.
 
 # Top picks: Compiled list
 
 There are a lot of diversity and no definite trend in the list with the exact amp models, so that isn't really helpful. So, I decided to make another derivative list, in which I counted amp models from the same series as one. Usually, the main difference they had was in the power rating. I figured once you know what are the best amp series, you could choose the exact model depending upon your budget and how loud you want it to be. Also, I left out models // series which appeared only once.
-
-
 
 - ★★★★★★★★ Orange Crush Series
 - ★★★★★★★ Vox VT Series
@@ -38,7 +36,6 @@ There are a lot of diversity and no definite trend in the list with the exact am
 - ★ Peavey Rage 258
 - ★ Pignose 7-100
 
-
 # All the amps
 
 - ★★★ Bugera V5 Infinium
@@ -47,7 +44,7 @@ There are a lot of diversity and no definite trend in the list with the exact am
 - ★★ Line 6 Spider V 30
 - ★ Line 6 Spider V 60
 - ★ Line 6 Spider Classic 15
-- ★ Orange Micro Terror 
+- ★ Orange Micro Terror
 - Orange Tiny Terror
 - ★★ Orange Micro Dark
 - Orange Micro Crush Mini
@@ -82,7 +79,7 @@ There are a lot of diversity and no definite trend in the list with the exact am
 - ★ Peavey Vypur VIP 1
 - ★★ Peavey Vypyr VIP 2
 - ★ Peavey Rage 258
-- Peavey Solo 12W Transtube 
+- Peavey Solo 12W Transtube
 - Peavey Backstage
 - PRS Sonzera 20
 - Dr. Z Carmen Ghia
@@ -115,7 +112,6 @@ There are a lot of diversity and no definite trend in the list with the exact am
 - Mugig Guitar Amplifier
 - ★ Pignose 7-100
 - Pignose 7-200 Hog 20
-
 
 # Sources
 

@@ -4,7 +4,7 @@ author:
   email: hi@sumit-ghosh.com
 description: >-
   The Great Refusal, only that it's not so great. Looking for a praxis in this age of disillusionment and discontent.
-baseurl: ''
+baseurl: ""
 url: "https://okrefusal.com"
 
 minima:
@@ -23,4 +23,4 @@ plugins:
 permalink: /posts/:title/
 google_analytics: UA-107859389-2
 disqus:
-    shortname: okrefusal
+  shortname: okrefusal

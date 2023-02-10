@@ -6,7 +6,7 @@ date: 2022-06-04 23:00:00 +0530
 
 Recently I rewatched Nicolas Winding Refn's _Only God Forgives_. It's a very divisive movie, the critics' review at Rotten Tomatoes is around 50% lmao. But I found it to be quite intriguing.
 
-__Spoiler alert!__
+**Spoiler alert!**
 
 First a brief recap for those who haven't seen the movie or forgotten: Julian—played by Gosling—runs a boxing club in Bangkok as a front for his drug business. He and his mother Crystal get caught up in a turf war with the local police—especially an oddball sword-weilding detective—when Julian's older brother rapes and kills a local prostitute. The cycle of violence quickly escalates and finally results in Crystal's death and Julian's hands getting chopped off.
 
@@ -15,7 +15,7 @@ At it's core, it's a deeply moralistic tale which hammers in: "An eye for an eye
 Only God forgives, in our mortal plane there's no forgiveness for violence. Interestingly, the detective is almost an agent for a violently retributive God, he doesn't have any real personality other than that.
 
 > "Do you know who he is?"  
-> Julian nods. 
+> Julian nods.
 
 As if he knows what's coming for him. Judgement, from God.
 
